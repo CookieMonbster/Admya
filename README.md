@@ -1,2 +1,2 @@
 # Admya
-Si esto se pierde me rendire con la programacio, te detesto windos
+Si esto se pierde me rendire con la programacion, te detesto windows
